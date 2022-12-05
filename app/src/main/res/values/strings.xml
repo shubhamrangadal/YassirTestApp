@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YassirApp</string>
+    <string name="title_activity_movies_details">MovieDetailsActivity</string>
+</resources>
